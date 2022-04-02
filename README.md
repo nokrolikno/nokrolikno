@@ -1,4 +1,5 @@
-### Hi there 👋
+[![MasterHead](https://abload.de/img/monumentvalley2ycsjc.png)](https://github.com/nokrolikno)
+### Hi there 👋 and welcome to my profile!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokrolikno&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokrolikno&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
