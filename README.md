@@ -1,6 +1,6 @@
 [![MasterHead](https://abload.de/img/monumentvalley2ycsjc.png)](https://github.com/nokrolikno)
 ### Hi there 👋 and welcome to my profile!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=3000&color=F7EFF6&background=2B213A&vCenter=true&width=450&height=75&lines=I+am+a+student+from+Russia;and+I+love+coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=3000&color=F7EFF6&background=2B213A&vCenter=true&width=600&height=75&lines=I+am+a+student+from+Russia;and+I+love+coding!)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokrolikno&theme=synthwave&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokrolikno&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
