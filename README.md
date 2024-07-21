@@ -1,2 +1,1 @@
-[![MasterHead]([https://abload.de/img/monumentvalley2ycsjc.png](https://steamuserimages-a.akamaihd.net/ugc/951832693538946491/F40F42C79162B06189CFB03E57ED47082E2B55AF/?imw=512&amp;imh=362&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true))](https://github.com/nokrolikno)
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://i.pinimg.com/originals/7b/70/57/7b705769ad68272261b270df4630010c.jpg))
