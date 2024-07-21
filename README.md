@@ -1,1 +1,1 @@
-![alt text]([7b705769ad68272261b270df4630010c.jpg])
+![alt text][7b705769ad68272261b270df4630010c.jpg]
